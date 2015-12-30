@@ -23,8 +23,10 @@ Here's a walkthrough of implemented user stories:
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
-
-Describe any challenges encountered while building the app.
+This was my first time working in XCode, and it was a much different experience than I was used to - it was odd to have the
+graphic/interface side of things be so easily meshed with the code. I didn't run into any difficulties, and while I would
+like to keep going and make the app more interesting/functional, I just don't know enough about the capabilities of XCode to 
+implement more advanced things like animation.
 
 ## License
 
