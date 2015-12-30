@@ -1,9 +1,9 @@
 # Tip-Calculator-Basic
 The pre-work for CodePath university. 
 
-# Pre-work - Tip Calculator
+# Pre-work - TipCalc
 
-Tip Calculator is a tip calculator application for iOS.
+TipCalc is a tip calculator application for iOS.
 
 Submitted by: Emma Stephenson
 
